@@ -1,0 +1,9 @@
+@font-face {
+    font-family: comic;
+    src: url(ComicNeue-Regular.ttf);
+    font-weight: 400;
+} 
+
+.comic {
+    font-family: comic;
+}
